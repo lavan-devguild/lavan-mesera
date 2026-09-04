@@ -1,0 +1,14 @@
+/bin
+/build
+/cmake-build-debug
+/cmake-build-release
+/out
+/target
+
+.idea/
+.vs/
+.vscode/
+
+.DS_Store
+Thumbs.db
+desktop.ini
